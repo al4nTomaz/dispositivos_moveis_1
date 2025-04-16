@@ -1,0 +1,1 @@
+ /home/aluno/dispositivos_moveis_1/.dart_tool/flutter_build/a539bf54564abf41c4c5b85231473ba3/native_assets.yaml: 
