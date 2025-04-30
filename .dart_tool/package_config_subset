@@ -26,6 +26,10 @@ fake_async
 2.12
 file:///home/aluno/.pub-cache/hosted/pub.dev/fake_async-1.3.1/
 file:///home/aluno/.pub-cache/hosted/pub.dev/fake_async-1.3.1/lib/
+faker_dart
+2.12
+file:///home/aluno/.pub-cache/hosted/pub.dev/faker_dart-0.2.2/
+file:///home/aluno/.pub-cache/hosted/pub.dev/faker_dart-0.2.2/lib/
 flutter_lints
 3.1
 file:///home/aluno/.pub-cache/hosted/pub.dev/flutter_lints-4.0.0/
@@ -96,8 +100,8 @@ file:///home/aluno/.pub-cache/hosted/pub.dev/vm_service-14.3.0/
 file:///home/aluno/.pub-cache/hosted/pub.dev/vm_service-14.3.0/lib/
 dispositivos_moveis_1
 3.5
-file:///home/aluno/dispositivos_moveis_1/
-file:///home/aluno/dispositivos_moveis_1/lib/
+file:///home/aluno/dispositivos_moveis_1-1/
+file:///home/aluno/dispositivos_moveis_1-1/lib/
 sky_engine
 3.2
 file:///home/aluno/snap/flutter/common/flutter/bin/cache/pkg/sky_engine/

@@ -44,6 +44,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "faker_dart",
+      "rootUri": "file:///home/aluno/.pub-cache/hosted/pub.dev/faker_dart-0.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///home/aluno/snap/flutter/common/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -170,7 +176,7 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-04-16T12:31:21.205990Z",
+  "generated": "2025-04-30T11:46:54.797539Z",
   "generator": "pub",
   "generatorVersion": "3.6.2",
   "flutterRoot": "file:///home/aluno/snap/flutter/common/flutter",
